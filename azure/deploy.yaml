@@ -17,3 +17,4 @@ spec:
           image: user11.azurecr.io/delivery:latest
           ports:
             - containerPort: 8080
+
