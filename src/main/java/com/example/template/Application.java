@@ -14,3 +14,4 @@ public class Application {
         applicationContext = SpringApplication.run(Application.class, args);
     }
 }
+
